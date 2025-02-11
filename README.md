@@ -7,7 +7,7 @@
 Skystead Christmas is a festive-themed hidden object game where every click costs a snowball, and every snowball requires some snow! Players must collect falling snowflakes to fuel their snowballs and find all 24 Skylets. The goal is to gather snowflakes and use them wisely to locate all the Skylets.
 </p>
 <p>
-I was the primary programmer on this project, which was developed entirely in just one week as part of ToastieLabs' participation in Jingle Jam 2024. After its initial release, the game was later launched on Steam with achievements to help promote Skystead Ranch leading up to its release, marking my first ever game release on the platform.
+I was the primary programmer on this project, developed entirely in just one week as part of ToastieLabs' participation in Jingle Jam 2024. After its debut, the game was launched on Steam with achievements, helping promote Skystead Ranch ahead of its own launch — marking my very first game on the platform.
 </p>
 <br />
 
