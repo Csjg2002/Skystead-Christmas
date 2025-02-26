@@ -14,7 +14,7 @@ I was the primary programmer on this project, developed entirely in just one wee
 <h2>In-game Clips:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Skystead Christmas"/>
+<img src="https://github.com/user-attachments/assets/c4b21cbc-50fe-48d6-aff8-7832cd4ac8fe" height="80%" width="80%" alt="Skystead Christmas"/>
 <br />
 <br />
 </p>
